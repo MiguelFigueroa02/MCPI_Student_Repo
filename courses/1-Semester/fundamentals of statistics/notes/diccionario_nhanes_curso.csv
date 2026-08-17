@@ -1,0 +1,19 @@
+﻿variable,tipo,unidad,descripcion,observaciones
+id,Identificador,,Identificador anónimo del participante,
+edad_anios,Numérica,años,Edad del participante,80 significa 80 años o más
+sexo,Categórica,,Sexo registrado en NHANES,Hombre / Mujer
+sueno_semana_h,Numérica,horas,Duración habitual del periodo principal de sueño entre semana,2 = menos de 3 h; 14 = 14 h o más
+sueno_finsemana_h,Numérica,horas,Duración habitual del periodo principal de sueño en fin de semana,2 = menos de 3 h; 14 = 14 h o más
+somnolencia_diurna,Categórica ordinal,,Frecuencia de somnolencia excesiva durante el día,Nunca / Rara vez / A veces / A menudo / Casi siempre
+imc_kg_m2,Numérica,kg/m²,Índice de masa corporal,
+cintura_cm,Numérica,cm,Circunferencia de cintura,
+presion_sistolica_mmhg,Numérica,mmHg,Promedio de las mediciones disponibles de presión sistólica,
+presion_diastolica_mmhg,Numérica,mmHg,Promedio de las mediciones disponibles de presión diastólica,
+hba1c_pct,Numérica,%,Hemoglobina glucosilada HbA1c,
+colesterol_total_mg_dl,Numérica,mg/dL,Colesterol total en sangre,
+hdl_mg_dl,Numérica,mg/dL,Colesterol HDL,
+crp_mg_l,Numérica,mg/L,Proteína C reactiva ultrasensible,
+actividad_moderada,Categórica,,Realización de actividad recreativa de intensidad moderada,Sí / No
+minutos_sentado_dia,Numérica,min/día,Tiempo habitual que permanece sentado durante un día,
+tabaquismo,Categórica,,Estado de tabaquismo derivado de respuestas de NHANES,Nunca / Exfumador / Actual
+diabetes_reportada,Categórica,,Diagnóstico de diabetes comunicado por el participante,No / Sí / Limítrofe
